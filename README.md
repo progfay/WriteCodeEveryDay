@@ -10,7 +10,7 @@
 ## Rule
 
 1. I must write code every day.
-2. It must be useful code. No tweaking indentation, no code re-formatting.
+2. It must be useful code. No formatting source code likes tweaking indentation.
 3. All code must be written before midnight.
 4. The code must be Open Source and up on Github.
 
